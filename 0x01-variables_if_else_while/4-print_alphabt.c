@@ -9,7 +9,7 @@ int main(void)
 
 	for (lower_case = 'a'; lower_case <= 'z'; lower_case++)
 	{
-		if (lower_case != 'q' || lower_case != 'e')
+		if (lower_case != 'q' && lower_case != 'e')
 		{
 			putchar(lower_case);
 		}
