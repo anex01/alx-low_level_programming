@@ -11,6 +11,9 @@ int main(void)
 	{
 		printf("%d", single_digit);
 	}
-	return (0);
 
+	printf("\n");
+
+
+	return (0);
 }
