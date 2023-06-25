@@ -3,7 +3,7 @@
  * main - print numbers using putchar
  * Return: (0)
  */
-int main(void);
+int main(void)
 {
 	int single_digit;
 
