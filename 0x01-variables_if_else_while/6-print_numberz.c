@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - print numbers, putchar
- * Rrturn: (0)
+ * main - print numbers using putchar
+ * Return: (0)
  */
-int main(void)
+int main(void);
 {
 	int single_digit;
 
