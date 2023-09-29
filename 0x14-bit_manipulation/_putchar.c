@@ -5,7 +5,7 @@
  * @c: character to be displayed
  *
  * Return: 1 (Success)
- * 	-1 (Error)
+ *-1 (Error)
  */
 int _putchar(char c)
 {
