@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * get_bit - Retrives the value of a bit at a given indexd
+ * get_bit - Retrives the value of a bit at a given index
  *
- * Return: returns the value of a bit at the given index, or -1 on error
+ * Return: return the value of the bit at the given index
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
